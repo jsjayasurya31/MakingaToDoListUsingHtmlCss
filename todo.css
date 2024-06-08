@@ -1,0 +1,28 @@
+h1{
+    color: violet;
+    background-color: black;
+    font-style: italic;
+}
+li{
+    color: #120129;
+    list-style-type: square;
+    font-size: larger;
+    background-color: #89CFF3;
+
+    
+}
+*{
+    text-align: center;
+    border-radius: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 2px;
+    background-color: #00A9FF;
+}
+div{
+    padding: 1px;
+    margin:02px;
+    shape-margin: 1px;
+    background-color:white;
+    
+}
